@@ -1,0 +1,24 @@
+{
+  "name": "cube-timer",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njoppi2/cube-timer.git"
+  },
+  "keywords": [
+    "cube",
+    "timer",
+    "rubik"
+  ],
+  "author": "njoppi2@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/njoppi2/cube-timer/issues"
+  },
+  "homepage": "https://github.com/njoppi2/cube-timer#readme"
+}
