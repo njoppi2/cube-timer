@@ -25,7 +25,9 @@ coverage
 build/Release
 
 # Dependency directory
-node_modules
+node_modules/
+platforms/
+plugins/
 
 # Optional npm cache directory
 .npm
